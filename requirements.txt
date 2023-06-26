@@ -1,3 +1,4 @@
 azureml-opendatasets
 matplotlib
 seaborn
+scikit-learn
